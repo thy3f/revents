@@ -7,6 +7,8 @@ import "firebase/storage";
 const firebaseConfig = {
 	apiKey: "AIzaSyB7xFJjEmxIWHNkdU99kp69LrcjfcxKdHo",
 	authDomain: "reventscourse-fc36c.firebaseapp.com",
+	databaseURL:
+		"https://reventscourse-fc36c-default-rtdb.europe-west1.firebasedatabase.app",
 	projectId: "reventscourse-fc36c",
 	storageBucket: "reventscourse-fc36c.appspot.com",
 	messagingSenderId: "117253728333",
